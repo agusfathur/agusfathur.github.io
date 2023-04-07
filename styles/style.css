@@ -1,0 +1,19 @@
+html{
+  scroll-behavior: smooth;
+}
+.hero-container{
+  padding: 4.6rem;
+}
+.hero-non-home{
+  padding: 3rem;
+}
+@media screen and (max-width: 768px) {
+  .hero-container{
+    padding: 0rem;
+    margin-top: 10vh;
+  }
+  .hero-non-home{
+    padding: 0rem;
+    margin-top: 10vh;
+  }
+}
