@@ -1,2 +1,2 @@
 # agusfathur.github.io
-Website Pariwisata Pati - Portofolio usung bootstrap 5
+Website Pariwisata Pati - Portofolio using bootstrap 5
